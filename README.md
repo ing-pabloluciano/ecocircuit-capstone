@@ -84,48 +84,14 @@ assets/
 ## Tools & Software
 
 - Microsoft Excel
-- AutoCAD
-- MATLAB
+- PROTEUS
 - Multisim
 - Electrical calculations
 - Technical documentation
 
-## Suggested Files to Add
 
-Place your files using the following naming convention:
+## Authors
 
-```txt
-docs/presentation/EcoCircuit_Presentation.pdf
-docs/calculations/EcoCircuit_Calculations.xlsx
-docs/diagrams/system-architecture.png
-docs/diagrams/wiring-diagram.png
-docs/diagrams/power-flow-diagram.png
-```
-
-Suggested photo organization:
-
-```txt
-media/photos/components/solar-panel.jpg
-media/photos/components/battery.jpg
-media/photos/components/charge-controller.jpg
-media/photos/components/inverter.jpg
-
-media/photos/prototype/prototype-front.jpg
-media/photos/prototype/prototype-inside.jpg
-media/photos/prototype/prototype-wiring.jpg
-
-media/photos/testing/testing-load.jpg
-media/photos/testing/testing-solar-input.jpg
-media/photos/testing/testing-output.jpg
-```
-
-## Project Status
-
-Engineering documentation and portable PV system concept.
-
-## Author
-
-**Pablo Luciano Negron**  
-Software Engineer | Full Stack & Systems-Oriented Development  
-Background in Electrical Engineering and Computer Programming  
-Portfolio: [pabloluciano.pro](https://pabloluciano.pro)
+Pablo A. Luciano (President)
+Jorge O. Echevarría (Vice-President)
+Kevin Lugo (Manufacture Engineer)
